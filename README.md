@@ -1,8 +1,8 @@
 <div>
-    <a href="README.md">
+    <a href="README.md" style="text-decoration: none;">
         <img width="50" src="language/RUon.svg">
     </a>
-    <a href="README.en.md">
+    <a href="README.en.md" style="text-decoration: none;">
         <img width="50" src="language/ENGoff.svg">
     </a>
 </div>
