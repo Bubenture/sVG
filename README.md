@@ -1,11 +1,4 @@
-<div style="text-decoration: none;">
-    <a href="README.md" style="text-decoration: none;">
-        <img width="50" src="language/RUon.svg">
-    </a>
-    <a href="README.en.md" style="text-decoration: none;">
-        <img width="50" src="language/ENGoff.svg">
-    </a>
-</div>
+<a href="README.md"><img width="50" src="language/RUon.svg"></a><a href="README.en.md"><img width="50" src="language/ENGoff.svg"></a>
 </br>
 <p align="center"><img width="600" src="svg/cat.svg" alt="cat"/></p>
 <div align="center" >
