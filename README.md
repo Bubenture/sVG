@@ -1,4 +1,4 @@
-<div>
+<div style="text-decoration: none;">
     <a href="README.md" style="text-decoration: none;">
         <img width="50" src="language/RUon.svg">
     </a>
