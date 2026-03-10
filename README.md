@@ -1,4 +1,4 @@
-<a href="README.md"><img width="40" src="language/RUon.svg"></a><a href="README.en.md"><img width="40" src="language/ENGoff.svg"></a>
+<a href="README.md"><img width="40" src="https://github.com/Bubenture/Bubenture/blob/main/language/RUon.svg"></a><a href="README.en.md"><img width="40" src="https://github.com/Bubenture/Bubenture/blob/main/language/ENGoff.svg"></a>
 </br>
 <p align="center"><img width="600" src="svg/cat.svg" alt="cat"/></p>
 <div align="center" >
